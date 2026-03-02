@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=200&section=header&text=Nithin%20Kumar%20S&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=200&section=header&text=NithinKumar%20S&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
